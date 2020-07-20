@@ -1,4 +1,4 @@
-package demo3;
+package Thread2;
 
 public class App {
 

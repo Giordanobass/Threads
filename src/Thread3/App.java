@@ -1,4 +1,4 @@
-package Thread2.src;
+package Thread3;
 
 import java.util.Scanner;
 
