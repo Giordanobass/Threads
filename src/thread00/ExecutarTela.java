@@ -1,4 +1,4 @@
-package cursojava.thread;
+package thread00;
 
 public class ExecutarTela {
 
